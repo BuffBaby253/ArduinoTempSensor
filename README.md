@@ -29,4 +29,4 @@ SDA |   A4
 SCL |   A5
 
 # TODO
-- Configure with Arduino Cloud
+- Configure with Wi-Fi
